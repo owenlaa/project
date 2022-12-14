@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  png: 0;
+}
+canvas {
+  display: block;
+}
+.balls {
+  opacity:0;
+  
+}
+
+.eyes:hover .balls {
+  opacity:1;
+  
+}
+
+.eyes:hover {
+  opacity:0;
+  
+}
